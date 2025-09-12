@@ -1,53 +1,24 @@
-🚀 **Software Developer | Cloud Enthusiast | Problem Solver**
+# 💫 About Me:
+🌟 About Me<br><br>🔭 I’m currently working on<br><br>Building LLM-powered solutions with FastAPI, RAG, and vector indexing at Cognida.ai.<br><br>Exploring autonomous AI agents for intelligent workflows.<br><br>👯 I’m looking to collaborate on<br><br>Open-source developer productivity tools (Git helpers, data validators, log analyzers).<br><br>Backend projects needing scalable architectures or cloud integrations.<br><br>🤝 I’m looking for help with<br><br>Optimizing vector database + LLM integrations.<br><br>Best practices for Kubernetes-based deployments.<br><br>🌱 I’m currently learning<br><br>Advanced Kubernetes CD techniques.<br><br>LLM benchmarking & evaluation strategies.<br><br>💬 Ask me about<br><br>Backend engineering at scale (millions of users — Activision/Demonware experience).<br><br>MySQL performance & troubleshooting (Percona-trained).<br><br>AI-driven automation for real-world applications.<br><br>⚡ Fun fact<br>I built a disaster management app using AWS, Google Maps, Firebase, and public bus APIs 🚍🌍 during my academic days.
 
-I enjoy building systems that are reliable, scalable, and easy to debug.  
-Passionate about backend development, cloud technologies, and creating tools that make developers’ lives easier.  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guroosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guroosh7777@gmail.com) 
 
-## 🏆 Achievements
-- ✅ **AWS Certified Developer – Associate** (Scored 800/1000, passing: 720)  
-- 🔍 Led a project to **enhance visibility into user journeys** using audit logs → improved debugging & boosted team productivity.  
-- ⚡ Constantly exploring ideas for developer productivity tools (e.g., `csv-doctor`, `git-aid`).  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guroosh&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=guroosh&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guroosh&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=guroosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💻 Tech Stack
-- **Languages:** Python, JavaScript (Node.js), Java  
-- **Cloud & Infra:** AWS, Docker, Kubernetes  
-- **Databases:** PostgreSQL, CouchDB, Redis  
-- **Dev Tools:** Git, GitHub Actions, CI/CD, Linux  
-
----
-
-## 📌 Current Focus
-- Building helpful libraries & CLI tools for developers.  
-- Experimenting with automation around **Git workflows**.  
-- Diving deeper into **cloud-native architectures**.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=guroosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 📝 [Portfolio / Blog](https://your-portfolio-link.com)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-
----
-
-⭐️ *“Code should not just work, it should teach, explain, and inspire.”*
-
-
-<!--
-**guroosh/guroosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
