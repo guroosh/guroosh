@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Chaudhary Singh
-
 🚀 **Software Developer | Cloud Enthusiast | Problem Solver**
 
 I enjoy building systems that are reliable, scalable, and easy to debug.  
