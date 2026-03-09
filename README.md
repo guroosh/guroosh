@@ -1,8 +1,8 @@
 # Chaudhary Guroosh Singh
 
-Senior Software Engineer with 6 years of Python experience, specialising in backend development, distributed systems, and scalable API design. Currently building LLM-powered solutions and autonomous AI agents at Cognida.ai.
+Senior Software Engineer with 6 years of Python experience, specialising in backend development, distributed systems, and scalable API design. Currently building LLM-powered solutions and autonomous AI agents.
 
-Previously at **Demonware (Activision)** — auth, account storage, and session management for cross-platform gaming across Xbox, PlayStation, and Windows at millions of daily active users.
+Previously worked on: auth, account storage, and session management for cross-platform gaming across Xbox, PlayStation, and Windows at millions of daily active users.
 
 ---
 
